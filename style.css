@@ -55,14 +55,6 @@ nav .rendez-vous {
     background-color: #0d6efd;
 }
 
-.rendez-vous:active{
-    justify-content: center;
-    text-decoration: none;
-    color: white;
-    padding: 10px;
-    border-radius: 20px;
-    background-color: black;
-}
 
 .accueil {
     background-color: #f2f2f2;
